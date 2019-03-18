@@ -17,7 +17,7 @@
 
 
 // const useChalk = require('chalk');
-// console.log(useChalk.yellow.inverse('Warning'));
+console.log(useChalk.yellow.inverse('Warning'));
 // console.log(useChalk.red.bgBlue('hey world'));
 // console.log(useChalk.bold.red.bgYellow.bold('hey world',`this is 
 // Anindita`, 'have faith'));
