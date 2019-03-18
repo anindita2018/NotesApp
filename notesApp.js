@@ -21,8 +21,6 @@
 // console.log(useChalk.red.bgBlue('hey world'));
 // console.log(useChalk.bold.red.bgYellow.bold('hey world',`this is 
 // Anindita`, 'have faith'));
-// console.log(useChalk.red.underline('hey world',`this is 
-// Anindita`, 'have faith'));
 // console.log(useChalk.red.underline('hey world', `this is`, useChalk.blue('Anindita'), 'have faith'));
 // console.log(useChalk.red.underline('I\'m a red line' + useChalk.green(` 
 // this is green line`)+ 'this becomes red line again' ));
